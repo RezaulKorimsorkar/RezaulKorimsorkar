@@ -33,32 +33,3 @@ Remember, the choice of method depends on the context and the purpose of your pr
 For general debugging and logging information, console.log() is commonly used. 
 For interacting with users, alert() and prompt() are useful, and 
 for displaying content within the webpage, you can use innerHTML or document.write().
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
